@@ -196,20 +196,20 @@
     font-weight: 300;
   }
   
-  #tag-list, #categories-list {
+  #tags-list, #categories-list {
     list-style: none;
   }
   
-  #tag-list li, #categories-list li {
+  #tags-list li, #categories-list li {
     margin-bottom: 10px;
   }
   
-  #tag-list a, #categories-list a {
+  #tags-list a, #categories-list a {
     color: #666;
     transition: .5s;
   }
   
-  #tag-list a:hover, #categories-list a:hover {
+  #tags-list a:hover, #categories-list a:hover {
     color: #000;
   }
   
